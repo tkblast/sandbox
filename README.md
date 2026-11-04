@@ -1,3 +1,4 @@
+![lint](https://github.com/tkblast/sandbox/actions/workflows/lint.yml/badge.svg)
 ## Scripts
 - 'hello.sh [name]': prints a greeting
 - 'goodbye.sh [name]': prints a farewell
